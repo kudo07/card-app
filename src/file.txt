@@ -1,0 +1,27 @@
+<div id="root>
+    <div className="App">
+      <nav>
+        <a href="/">React with CSS Styles</a>
+      </nav>
+//this is App component
+      <MessageCard/>-=>in message MessageCard
+                
+            <div> to see the direct nav to the card we use the fragment
+            why i given this div extra because there is root level task should be there
+                
+                  <div className="card">
+                
+                      <div className="card-body">
+                
+                          <h3>Good Morning</h3>
+                
+                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, veniam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, numquam.</p>
+                
+                      </div>
+                
+                  </div>
+                
+              </div>
+      
+    </div>
+</div>

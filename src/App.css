@@ -1,0 +1,25 @@
+nav{
+  background-color: rgb(203, 225, 244);
+  padding: 10px;
+}
+nav a{
+  color: rgb(213, 53, 128);
+  text-decoration: none;
+  font-size: 20px;
+}
+.card{
+  box-shadow: 0 0 8px black;
+  width:300px;
+  height:200px;
+  margin:20px;
+  padding:10px;
+  background: linear-gradient(45deg,pink,rgb(99, 99, 204));
+}
+.card-body h3{
+  font-size: 25px;
+  margin: 2px;
+}
+.card-body p{
+  font-size: 20px;
+
+}
